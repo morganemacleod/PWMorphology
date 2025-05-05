@@ -3,7 +3,7 @@ Replication code and analysis scripts for "Streams and Bubbles: Tidal
 Shaping of Planetary Outflows" https://arxiv.org/abs/2411.12895
 
 The associated data are available via the Harvard Dataverse at:
-https://arxiv.org/abs/2411.12895
+https://doi.org/10.7910/DVN/7GLDAZ
 (to run the scripts, please download the data and set the "DATAPATH"
 variable in the first cell).
 
